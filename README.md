@@ -1,6 +1,36 @@
-- 👋 Hi, I’m @Guldenizguzelay
+![image](https://github.com/user-attachments/assets/9b7bd027-5d7a-42f3-a43f-303e07a22760)
+
+# Güldeniz Güzelay 🤞
+
+## Planning and OPEX Manager & Data Analyst
+
+### Skills
+* Feature Engineering
+* CRM Analytics
+* Measurement Problems
+* Power BI
+* SQL
+* NLP
+* Machine Learning
+* Scrum Master
+* Supply Chain Executive
+* Advanced Excel
+
+### 🧠 Links
+
+<a href="https://www.linkedin.com/in/guldenizguzelay/">
+  <img align="left" alt="Bunyamin's Linkedin" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/linkedin.svg" />
+</a>
+
+<br/>
+<br/>
+
+
+---
+
+## information
+
 - 🌱 I’m currently learning NLP 
-- 📫 You can reach me on https://www.linkedin.com/in/guldenizguzelay/
 - ⚡ Fun fact: Old E-com and automotive manager, new data analyst
 
 <!---
