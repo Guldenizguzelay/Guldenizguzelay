@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/9b7bd027-5d7a-42f3-a43f-303e07a22760)
-
 # Güldeniz Güzelay 🤞
 
 ## Data Scientist & Supply Chain Analytics | M.Sc. Data Science
@@ -33,7 +31,7 @@
 
 ## information
 
-- 🌱 I’m currently learning NLP 
+- 🌱 I’m currently learning Green Computing
 - ⚡ Fun fact: Old E-com and automotive manager, new data analyst
 
 <!---
