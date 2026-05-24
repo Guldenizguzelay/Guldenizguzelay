@@ -2,10 +2,13 @@
 
 # Güldeniz Güzelay 🤞
 
-## Planning and OPEX Manager & Data Analyst
+## Data Scientist & Supply Chain Analytics | M.Sc. Data Science
 
 ### Skills
 * Feature Engineering
+* GenAi
+* Agent
+* Deep Learning
 * CRM Analytics
 * Measurement Problems
 * Power BI
